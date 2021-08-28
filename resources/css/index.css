@@ -19,19 +19,19 @@ h2 {
     color: white;
 }
 
-h2#brushes {
+#brushes {
     background-color: mediumspringgreen;
 }
 
-h2#frames {
+#frames {
     background-color: lightcoral;
 }
 
-h2#paint {
+#paint {
     background-color: skyblue;
 }
 
-span.price {
+.price {
     font-weight: bold;
     color: blue;
 }
